@@ -1,4 +1,4 @@
-# Prueba Tecnica APIREST Candidate (Proyecto Laravel 10 con Jetstream) 🚀
+# Ejercicio Tecnico APIREST Candidate (Proyecto Laravel 10 con Jetstream) 🚀
 
 ## Requerimientos mínimos 📋
 
@@ -21,7 +21,7 @@ El marco de trabajo Laravel tiene algunos requerimientos de sistema. Debes asegu
 
 ## Pasos para la instalación 🔧
 
-1. Primero, abre la terminal GIT BASH y ejecuta el comando `git clone [ruta del proyecto]` para contar con este proyecto en tu máquina local.
+1. Primero, abre la terminal GIT BASH y ejecuta el comando `git clone https://github.com/johannht2/api-candidates.git` para contar con este proyecto en tu máquina local.
 2. Ahora, ejecuta el siguiente comando para compilar los activos: `composer install, npm install && npm run dev`
 3. Finalmente, necesitamos ejecutar el comando de migración para crear la tabla de la base de datos: `php artisan migrate`
 
